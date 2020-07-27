@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I5A6tr5WDwqI5hIOkrOH2+SX5C5ltS1RtSVlsPfEPxSmtPaTR/+E3FAwXQ5sCMJ83qscaX7MiU4k6lbHsc9r9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zach\\source\\repos\\PigLatin2\\PigLatin2\\PigLatin2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zach\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
